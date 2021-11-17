@@ -24,4 +24,7 @@
 * indexOf and lastIndexOf are the methods on String which returns the position of the given string in the input string from start and end respectively
 * If the match is not found, these methods return -1
 
+## Day 6
+### Write a function to truncate a string to a certain number of words
+* Truncate a string to a certain number of words
 
