@@ -28,3 +28,18 @@
 ### Write a function to truncate a string to a certain number of words
 * Truncate a string to a certain number of words
 
+## Day 7
+### Create a regular expression to validate if the given input is valid Indian mobile number or not
+* Regular expression check has to have an optional +91 or 0 in the beginning, then an optional space and 10 digits
+* test method of regular expression can be used to validate if the mobile number pattern matches or not
+
+## Day 8
+### Write a function which accepts two valid dates and returns the difference between them as number of days
+* The difference between 2 dates in JavaScript will give the time difference in milliseconds
+* Time difference can be converted in to days by dividing the 24Hrs time in milliseconds
+
+## Day 9
+### Write a function to check if an object is empty or not in javaScript?
+* How to check if an object is empty or not in javaScript?
+
+
