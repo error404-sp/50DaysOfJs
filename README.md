@@ -42,4 +42,6 @@
 ### Write a function to check if an object is empty or not in javaScript?
 * How to check if an object is empty or not in javaScript?
 
-
+## Day 10
+### Write a function to remove array element based on object property?
+* How to remove array element based on object property?
